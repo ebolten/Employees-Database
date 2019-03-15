@@ -59,19 +59,19 @@ class CameraMan(Employee): #subclass of Employee
 class Editor(Employee): #subclass of Employee
     department = "Editting"
     salery = 45000
-    def job(position): #subclass of Employee
+    def job(position):
         self.position = position
 
 class Writer(Employee): #subclass of Employee
     department = "Script Writing"
     salery = 50000
-    def job(position): #subclass of Employee
+    def job(position):
         self.position = position
 
 class Director(Employee): #subclass of Employee
     department = "Directing"
     salery = 65000
-    def job(position): #subclass of Employee
+    def job(position):
         self.position = position
 
 #will be shown to user
