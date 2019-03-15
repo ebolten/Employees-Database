@@ -90,21 +90,3 @@ except:
     print("No employee to write to file.")
 
 Employees.close() #close Employees.txt
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
